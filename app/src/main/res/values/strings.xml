@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">nc_lab6</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="facebook_app_id">438749400098119</string>
+    <string name="fb_login_protocol_scheme">fb438749400098119</string>
+
+</resources>
